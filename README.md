@@ -29,7 +29,7 @@
 
 I'm a **Backend & AI Engineer** and CS junior at **NIT Kurukshetra ('27)**, building at the intersection of **scalable APIs**, **agentic AI systems**, and **Graph RAG**. I care deeply about making AI actually useful — not just impressive demos, but production-grade tools that solve hard engineering problems.
 
--  **Currently building:** [LegacyGraph-MCP](https://github.com/RohitYadav34980/LegacyGraph-MCP) — an MCP server that exposes C++ codebase dependency graphs to AI agents using `tree-sitter` + Graph RAG. **1.5k+ RPC calls in first month.**
+-  **Currently building:** [LegacyGraph-MCP](https://github.com/RohitYadav34980/LegacyGraph-MCP) — an MCP server that exposes C++ codebase dependency graphs to AI agents using `tree-sitter` + Graph RAG. **20k+ RPC calls in two days.**
 -  **Former:** Backend Intern @ **Lepton Software** — engineered multi-agent AI assistant for conversational data analysis.
 -  **Open to:** Backend, Cloud, or AI Engineering internships for **2026**.
 -  **Currently exploring:** LangGraph orchestration, vector search, distributed systems.

@@ -149,7 +149,7 @@ I'm always open to discussing **backend architecture**, **AI agent design**, or 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-yadav-062628298/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:rohit-yadav34@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:rohityadav.nitkkr@gmail.com)
 
 </div>
 

@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/rohit-yadav-062628298/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rohityadav34980@gmail.com">
+  <a href="mailto:rohityadav.nitkkr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/rohityadav34980">
+  <a href="https://www.codechef.com/users/rohit-yadav34">
     <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85-brown?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://smithery.ai/servers/labsofuniverse/legacy-mcp-analyzer">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=RohitYadav34980.RohitYadav34980&" alt="visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rohit-yadav34.rohit-yadav34&" alt="visitors" />
 
 </div>
 
@@ -29,7 +29,7 @@
 
 I'm a **Backend & AI Engineer** and CS junior at **NIT Kurukshetra ('27)**, building at the intersection of **scalable APIs**, **agentic AI systems**, and **Graph RAG**. I care deeply about making AI actually useful — not just impressive demos, but production-grade tools that solve hard engineering problems.
 
--  **Currently building:** [LegacyGraph-MCP](https://github.com/RohitYadav34980/LegacyGraph-MCP) — an MCP server that exposes C++ codebase dependency graphs to AI agents using `tree-sitter` + Graph RAG. **20k+ RPC calls in two days.**
+-  **Currently building:** [LegacyGraph-MCP](https://github.com/rohit-yadav34/LegacyGraph-MCP) — an MCP server that exposes C++ codebase dependency graphs to AI agents using `tree-sitter` + Graph RAG. **20k+ RPC calls in two days.**
 -  **Former:** Backend Intern @ **Lepton Software** — engineered multi-agent AI assistant for conversational data analysis.
 -  **Open to:** Backend, Cloud, or AI Engineering internships for **2026**.
 -  **Currently exploring:** LangGraph orchestration, vector search, distributed systems.
@@ -74,11 +74,11 @@ I'm a **Backend & AI Engineer** and CS junior at **NIT Kurukshetra ('27)**, buil
 
 ## Featured Projects
 
-### [Second Mind](https://github.com/RohitYadav34980/second-mind)
+### [Second Mind](https://github.com/rohit-yadav34/second-mind)
 > **Repository Memory & Session Context Skill for AI Agents**
 
-[![Stars](https://img.shields.io/github/stars/RohitYadav34980/second-mind?style=flat-square&color=yellow)](https://github.com/RohitYadav34980/second-mind/stargazers)
-[![Language](https://img.shields.io/github/languages/top/RohitYadav34980/second-mind?style=flat-square)](https://github.com/RohitYadav34980/second-mind)
+[![Stars](https://img.shields.io/github/stars/rohit-yadav34/second-mind?style=flat-square&color=yellow)](https://github.com/rohit-yadav34/second-mind/stargazers)
+[![Language](https://img.shields.io/github/languages/top/rohit-yadav34/second-mind?style=flat-square)](https://github.com/rohit-yadav34/second-mind)
 
 A skill that scans repository history and conversation context to capture design decisions, open questions, and session state as plain Markdown — giving AI agents persistent project memory.
 
@@ -86,10 +86,10 @@ A skill that scans repository history and conversation context to capture design
 
 ---
 
-###  [LegacyGraph-MCP](https://github.com/RohitYadav34980/LegacyGraph-MCP)
+###  [LegacyGraph-MCP](https://github.com/rohit-yadav34/LegacyGraph-MCP)
 > **MCP Server for AI-powered C++ Legacy Codebase Modernization**
 
-[![Language](https://img.shields.io/github/languages/top/RohitYadav34980/LegacyGraph-MCP?style=flat-square)](https://github.com/RohitYadav34980/LegacyGraph-MCP)
+[![Language](https://img.shields.io/github/languages/top/rohit-yadav34/LegacyGraph-MCP?style=flat-square)](https://github.com/rohit-yadav34/LegacyGraph-MCP)
 [![Smithery](https://smithery.ai/badge/labsofuniverse/legacy-mcp-analyzer)](https://smithery.ai/servers/labsofuniverse/legacy-mcp-analyzer)
 
 Built a **Model Context Protocol** server that exposes C++ codebases as **Knowledge Graphs** to AI agents. Uses `tree-sitter` for 100% accurate AST parsing and `NetworkX` for circular dependency detection — solving the core problem of hallucinations in LLM-based legacy refactoring.
@@ -98,10 +98,10 @@ Built a **Model Context Protocol** server that exposes C++ codebases as **Knowle
 
 ---
 
-###  [DemystDocs.AI](https://github.com/RohitYadav34980/DemystDocs.AI)
+###  [DemystDocs.AI](https://github.com/rohit-yadav34/DemystDocs.AI)
 > **End-to-End Document Intelligence Platform**
 
-[![Language](https://img.shields.io/github/languages/top/RohitYadav34980/DemystDocs.AI?style=flat-square)](https://github.com/RohitYadav34980/DemystDocs.AI)
+[![Language](https://img.shields.io/github/languages/top/rohit-yadav34/DemystDocs.AI?style=flat-square)](https://github.com/rohit-yadav34/DemystDocs.AI)
 
 An intelligent document analysis platform integrating **OCR**, **RAG pipelines**, and **vector search**, exposed through high-performance RESTful APIs deployed on **Google Cloud Platform**.
 
@@ -122,7 +122,7 @@ Built during internship — an agentic AI assistant powered by **LangGraph** tha
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RohitYadav34980&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohit-yadav34&theme=tokyonight&hide_border=true" width="48%" />
 
 
 </div>
@@ -149,7 +149,7 @@ I'm always open to discussing **backend architecture**, **AI agent design**, or 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-yadav-062628298/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:rohityadav34980@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:rohit-yadav34@gmail.com)
 
 </div>
 
